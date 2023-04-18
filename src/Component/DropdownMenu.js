@@ -24,7 +24,7 @@ function DropDown() {
       <label htmlFor="dropdown-menu">Select a region:</label>
       <select id="dropdown-menu" value={selectedOption} onChange={handleOptionChange}>
       
-      <option value="Asia">Asia Sam</option>
+      <option value="Asia">Asia</option>
       <option value="Oceania">Oceania</option>
       <option value="Africa">Africa</option>
       <option value="Europe">Europe</option>
